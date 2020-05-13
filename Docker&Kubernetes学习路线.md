@@ -3,27 +3,16 @@
 > 为什么要用容器？
 
 1. Docker基本使用
-
    1) 基础概念
-
    2) 理解容器镜像
-
    3）创建应用容器并作资源限制
-
    4）让外部访问容器应用
-
 2. Dockerfile
-
    1) 企业容器镜像制作
-
    2）Dockerfile编写
-
    3）使用制作的镜像容器部署LNMP平台
-
 3. 企业级Harbor镜像仓库集中管理镜像
-
 4. 基于Docker构建企业Jenkins CI平台
-
 5. Promethues+Grafana监控Docker
 
 ## 二、Kubernets概述

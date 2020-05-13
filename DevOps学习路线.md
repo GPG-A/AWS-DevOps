@@ -1,15 +1,11 @@
 ## 一、Shel脚本编程进阶，常规任务自动化运行
 
 1. Shell基本语法结构
-
 2. 文本处理三剑客最常用的几种场景（grep/ awk/ sed）
-
    1）练习：一键查看服务器资源利用率
-
    2）练习：找出占用CPU、内存过高的进程
-
    3）练习：批量检查网站是否异
-
+   
 ## 二、Gitlab代码版本管理系统
 
 1. Docker部署GitLab
@@ -60,63 +56,36 @@
 ## 五、ELK Stack企业日志平台
 
 1. ELK Stack架构概述
-
 2. ELK Stack架构搭建
-
    1）分布式数据库：Elasticsearch概述、集群部署、图形管理
-
    2）日志处理：Logstash概述、部署、配置
-
    3）日志可视化：Kibana概述、部署、配置
-
    4）日志采集：Filebeat概述、部署、配置
-
 3. 深入理解Logstash
-
    1）Input常用插件
-
    2）Fileter常用插件
-
    3）Output常用插件
-
 4. 使用Kibana可视化日志
-
    1）日志采集
-
    2）Kibana可视化和仪表盘
-
 5. 收集Kubernetes应用程序日志
-
 6. 日志告警ElastAlert
-
 7. ELK Stack架构性能优化
 
 ## 六、Jenkins自动化CI/CD流水线
 
 1. Jenkins基本管理
-
    1）用户权限管理
-
    2）参数化构建
-
    3）GitLab参数化构建
-
    4）分布式构建
-
 2. Pipeline流水线
-
    1）Grooy基础
-
    2）参数化构建代码化
-
    3）Jenkins与Docker持续集成，流水线构建镜像
-
    4) Jenkins与Ansible集成，发布多服务器、多环境
-
 3. 发布失败项目回滚
-
 4. Jenkins基于GitLab自动触发发布
-
 5. Jenkins备份与回复
 
 ## 七、微服务项目运维管理
